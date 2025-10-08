@@ -1,0 +1,6 @@
+numpy==1.23.3
+matplotlib==3.5.3
+scipy==1.9.3
+lmfit==1.0.3
+uncertainties==3.1.7
+colour==0.1.5

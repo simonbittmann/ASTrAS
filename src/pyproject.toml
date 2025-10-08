@@ -1,0 +1,10 @@
+[project]
+name = "astras"
+version = "1.0.0"
+description = "ASTrAS - Analysis Software for Transient Absorption Spectroscopy"
+authors = [{ name = "Simon Bittmann", email = "simon.f.bitmann@gmail.com" }]
+readme = "README.md"
+requires-python = "==3.10"
+dependencies = [
+
+]
